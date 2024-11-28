@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Kadambaka Jyothiswaroop
 
-<!--
-**Siddhu441/Siddhu441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 About Me
+🌟 Learning Full Stack Web Development, passionate about building impactful web applications.  
+🌱 Currently mastering ReactJS, NodeJS, Spring, ExpressJS, and Spring Boot.  
 
-Here are some ideas to get you started:
+## 📫 Contact Me:
+- **Phone:** +91-7989916386  
+- **Email:** [2300032033cseh@gmail.com](mailto:2300032033cseh@gmail.com)  
+- **LinkedIn:** [[@jyothiswaroop-kadambala-06595628a](https://www.linkedin.com/in/jyothi-swaroop-kadambala-06595628a/)](#)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+| Degree           | Institute                 | Board/University | CGPA/Percentage | Year       |
+|------------------|---------------------------|------------------|-----------------|------------|
+| B.Tech (CSEH)     | KL University, Guntur      | KLEF             | 8.9 (Till 2th Sem) | 2023-2027  |
+| Senior Secondary | Narayana Junior College     | BIEAP            | 93.6%           | 2021-2023  |
+| Class X          | Narayana India High School   | SSC              | 98%             | 2021       |
+
+## 🛠 Technical Skills
+- **Programming Languages:** Java, C  
+- **Frontend:** HTML, CSS, ReactJS (basic)  
+- **Backend:** Spring, Spring Boot, Hibernate  
+- **Database:** MongoDB, MySQL, PostgreSQL  
+- **Developer Tools:** VS Code, Git, Eclipse, Postman  
+
+
+
+## 🎖 Certifications
+- **Salesforce AI Associate (Salesforce)**  
+
+## 🏆 Achievements
+- **8.9 CGPA** at KL University (Till 2th Sem)  
