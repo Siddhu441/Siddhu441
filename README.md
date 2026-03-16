@@ -12,7 +12,7 @@
 ## 🎓 Education
 | Degree           | Institute                 | Board/University | CGPA/Percentage | Year       |
 |------------------|---------------------------|------------------|-----------------|------------|
-| B.Tech (CSEH)     | KL University, Guntur      | KLEF             | 8.9 (Till 2th Sem) | 2023-2027  |
+| B.Tech (CSEH)     | KL University, Guntur      | KLEF             | 8.53 (Till 2th Sem) | 2023-2027  |
 | Senior Secondary | Narayana Junior College     | BIEAP            | 93.6%           | 2021-2023  |
 | Class X          | Narayana India High School   | SSC              | 98%             | 2021       |
 
@@ -29,4 +29,4 @@
 - **Salesforce AI Associate (Salesforce)**  
 
 ## 🏆 Achievements
-- **8.9 CGPA** at KL University (Till 2th Sem)  
+- **8.53 CGPA** at KL University (Till 2th Sem)  
